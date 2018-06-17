@@ -1,5 +1,7 @@
 ## Robo Friends
-Simple app built to get familiar with React. Based on create-react-app.
+Simple app built to get familiar with React and Redux. Based on create-react-app.
+This branch uses Redux for state management, using packages like: 'react-redux', 'redux-thunk'.<br>
+This is much cleaner, future-proof way of declaring and using state but I decided to keep master branch as a pure React app.
 
 To run this project:
 1. Clone the repo
