@@ -1,5 +1,5 @@
 ## Robo Friends
-Simple app built to get familiar with React. Based on create-react-app.
+Simple app built to get familiar with React. Based on create-react-app. Also using [tachyons, which provide CSS classes for fast styling](http://tachyons.io/)
 
 To run this project:
 1. Clone the repo
