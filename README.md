@@ -1,3 +1,11 @@
+## Robo Friends
+Simple app built to get familiar with React. Based on create-react-app.
+
+To run this project:
+1. Clone the repo
+2. Run 'npm i'
+3. Run 'npm run start'
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
