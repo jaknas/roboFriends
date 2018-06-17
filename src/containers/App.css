@@ -1,0 +1,12 @@
+@font-face {
+	font-family: "Slim Play Regular";
+	font-style: normal;
+	font-weight: normal;
+	src: local("Slim Play Regular"), url("Slim Play.woff") format("woff");
+}
+
+h1 {
+	font-family: "Slim Play Regular";
+	font-weight: 200;
+	color: #dadada;
+}
